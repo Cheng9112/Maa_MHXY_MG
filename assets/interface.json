@@ -48,6 +48,18 @@
             ]
         },
         {
+            "name": "官服-刘海屏",
+            "path": [
+                "./resource/base",
+                "./resource/NeteaseServer",
+                "./resource/notch"
+            ],
+            "controller": [
+                "ADB"
+            ],
+            "description": "适用于刘海屏设备，屏幕左右两侧存在安全区的机型"
+        },
+        {
             "name": "九游",
             "path": [
                 "./resource/base",
