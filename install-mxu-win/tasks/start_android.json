@@ -1,9 +1,0 @@
-{
-    "task": [
-        {
-            "name": "启动app",
-            "entry": "start_android"
-        }
-    ],
-    "option": {}
-}
